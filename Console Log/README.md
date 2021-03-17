@@ -8,12 +8,12 @@
 
 {
 	"Print to console": {
-			"prefix": "cl",
-			"body": [
-				"console.log('$1');",
-			],
-			"description": "Log output to console"
-		}
-
+        "prefix": "cl",
+        "body": [
+            "console.log('$1');",
+        ],
+        "description": "Log output to console"
+    }
+}
 
 ```
